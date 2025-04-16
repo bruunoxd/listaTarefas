@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120962320678",
+    "project_id": "adicionartarefa-6b54a",
+    "storage_bucket": "adicionartarefa-6b54a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120962320678:android:41cbc2e6a218327cff99e7",
+        "android_client_info": {
+          "package_name": "com.mycompany.listatarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfspfUlxX7hq5VvZuRQXWudgpCeBWrGQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

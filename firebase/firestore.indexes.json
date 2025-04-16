@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "tarefas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "dia",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "hora",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
